@@ -1,0 +1,18 @@
+.h1tag{
+    font-size: 12px;
+}
+
+.custom-footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+    font-size: 12px;
+    background: #fff;
+}
+.list-unstyled{
+    display: flex;
+    justify-content: space-around;
+}
+.list-unstyled >li{
+    margin: 12px 20px;
+}

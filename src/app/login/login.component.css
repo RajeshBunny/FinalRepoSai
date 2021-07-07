@@ -1,0 +1,23 @@
+.back {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+  }
+  
+  .div-center {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  width: 350px;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  z-index: 100;
+  }
+  
+  div.content {
+    vertical-align: middle;
+  }
