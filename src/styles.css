@@ -13,8 +13,14 @@ body{
         display: grid;
         justify-content: center;
     }
-    .list-unstyled {
+    .list-unstyled >li{
+        margin-top: 0; 
         padding-left: revert;
+        margin-bottom: 0rem;
+    }
+    .list-unstyled {
+        padding-left: 0;
+        list-style: none;
     }
 }
 
@@ -30,6 +36,7 @@ body{
 }
 .list-unstyled {
     padding-left: 0;
+    justify-content: flex-end;
     list-style: none;
 }
 }
