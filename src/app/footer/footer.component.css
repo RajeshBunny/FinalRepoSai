@@ -3,14 +3,11 @@
     padding: 0;
 }
 .custom-footer{
-    display: flex;
-    justify-content: space-between;
     font-size: 12px;
     background: #fff;
 }
 .list-unstyled{
     display: flex;
-    justify-content: flex-end;
 }
 .list-unstyled >li{
     margin: 5px;
